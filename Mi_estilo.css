@@ -1,0 +1,13 @@
+.nebulosas {
+    width: 300px;
+    height: 300px;
+    -webkit-filter: blur(0.6px);
+    border-radius: 50%;
+    margin: 200px;
+  }
+  
+  .boton {
+
+    margin: 30px;
+
+  }
